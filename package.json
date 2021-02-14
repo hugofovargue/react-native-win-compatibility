@@ -1,0 +1,13 @@
+{
+  "name": "react-native-compatibility",
+  "version": "0.1.0",
+  "description": "Compare RN project's package.json with RN directory.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
